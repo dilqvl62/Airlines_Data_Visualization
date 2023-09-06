@@ -31,7 +31,7 @@ with app.app_context():
     
 
     api.add_resource(TotalFlights, '/total_flights')
-    api.add_resource(monthlyDelay, '/total_flights')
+    api.add_resource(monthlyDelay, '/monthly_delays')
   
 
     if __name__ == '__main__':
