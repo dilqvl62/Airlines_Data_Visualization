@@ -26,10 +26,12 @@ with app.app_context():
     session = Session(engine)
     CORS(app)  # Enable CORS for the entire app
 
-    from resources.total_flights import totalFlights
+    from resources.total_flights import TotalFlights
+    from resources.delay_total import monthlyDelay
     
 
-    api.add_resource(totalFlights, '/total_flights')
+    api.add_resource(TotalFlights, '/total_flights')
+    api.add_resource(monthlyDelay, '/total_flights')
   
 
     if __name__ == '__main__':
