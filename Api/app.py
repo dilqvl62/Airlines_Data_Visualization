@@ -28,11 +28,11 @@ with app.app_context():
 
     from resources.total_flights import TotalFlights
     from resources.delay_total import monthlyDelay
-    
+    from resources.heat_map import heatMap
 
     api.add_resource(TotalFlights, '/total_flights')
     api.add_resource(monthlyDelay, '/monthly_delays')
-  
+    api.add_resource(heatMap, '/heat_map')
 
     if __name__ == '__main__':
        app.run(debug=True)
