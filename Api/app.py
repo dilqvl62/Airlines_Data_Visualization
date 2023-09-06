@@ -26,13 +26,11 @@ with app.app_context():
     session = Session(engine)
     CORS(app)  # Enable CORS for the entire app
 
-    from resources.barCharts import BarGraphs
-    from resources.lineChart import lineGraphs
-    from resources.heat_map import heatMap
+    from resources.total_flights import totalFlights
+    
 
-    api.add_resource(BarGraphs, '/barCharts')
-    api.add_resource(lineGraphs, '/lineCharts')
-    api.add_resource(heatMap,'/heat_map')
+    api.add_resource(totalFlights, '/total_flights')
+  
 
     if __name__ == '__main__':
        app.run(debug=True)
