@@ -1,0 +1,12 @@
+carrier_name,total_arriving_flights,air_carrier_delay,wheather_delay,nat_aviation_delay
+Alaska Airlines Inc.,234994.0,12897.35,1275.28,18597.97
+American Airlines Inc.,903469.0,67375.9,8356.58,54640.26
+Delta Air Lines Inc.,920359.0,64330.66,4904.12,41477.77
+Envoy Air,234358.0,10546.33,3400.27,14282.9
+Frontier Airlines Inc.,161250.0,16054.52,808.05,15194.72
+Hawaiian Airlines Inc.,77161.0,11107.75,483.21000000000004,1322.24
+JetBlue Airways,279570.0,33760.14,1502.61,23146.55
+SkyWest Airlines Inc.,705400.0,74065.0,13365.0,4089.0
+Southwest Airlines Co.,1359925.0,108372.51,3733.27,53949.96
+Spirit Air Lines,247660.0,18144.23,1929.87,27215.06
+United Air Lines Inc.,666171.0,44627.06,3632.1,41614.68
