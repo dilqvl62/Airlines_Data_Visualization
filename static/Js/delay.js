@@ -11,11 +11,11 @@ d3.json(delayed_total).then(data => {
   function init() { 
     // Storing the data in variables 
     let Carrier_name = sharedData.map(item => item.carrir_name);
-    let late_aircraft_delay = sharedData.map(item => item.late_aircraft_ttl_delay);
-    let total_carrier_delay = sharedData.map(item =>item.total_carrier_delay);
-    let total_nat_aviat_delay = sharedData.map(item =>item.total_nat_aviat_delay);
-    let total_security_delay = sharedData.map(item => item.total_security_delay);
-    let total_weather_delay = sharedData.map(item => item.total_weather_delay);
+    let late_aircraft_delay = sharedData.map(item =>Math.round(item.late_aircraft_ttl_delay/60));
+    let total_carrier_delay = sharedData.map(item =>Math.round(item.total_carrier_delay/60));
+    let total_nat_aviat_delay = sharedData.map(item =>Math.round(item.total_nat_aviat_delay/60));
+    let total_security_delay = sharedData.map(item =>Math.round(item.total_security_delay/60));
+    let total_weather_delay = sharedData.map(item =>Math.round(item.total_weather_delay/60));
     let month = sharedData.map(item =>item.month);
     const uniqueCarrierNames = [...new Set(Carrier_name)];
     
@@ -84,7 +84,8 @@ d3.json(delayed_total).then(data => {
             tickangle: 0
         },
         yaxis: {
-            title: 'Total Delay in minuts'
+            title: 'Total Delay in Hours',
+            
         },
         hovermode: 'closest',
         //title: 'Total Delay Due to diffirent reasons'
@@ -106,11 +107,11 @@ const optionChanged = (value) => {
             const filterd_carrier_name = sharedData.filter(item => item.carrir_name === value)
             console.log(filterd_carrier_name)
             X = filterd_carrier_name.map(item => item.month)
-            y_aircraft = filterd_carrier_name.map(item => item.late_aircraft_ttl_delay)
-            y_security = filterd_carrier_name.map(item => item.total_security_delay)
-            y_Carrier  = filterd_carrier_name.map(item => item.total_carrier_delay)
-            y_NatAvia = filterd_carrier_name.map(item => item.total_nat_aviat_delay)
-            y_weather = filterd_carrier_name.map(item => item.total_weather_delay)
+            y_aircraft = filterd_carrier_name.map(item => Math.round(item.late_aircraft_ttl_delay/60))
+            y_security = filterd_carrier_name.map(item => Math.round(item.total_security_delay/60))
+            y_Carrier  = filterd_carrier_name.map(item => Math.round(item.total_carrier_delay/60))
+            y_NatAvia = filterd_carrier_name.map(item => Math.round(item.total_nat_aviat_delay/60))
+            y_weather = filterd_carrier_name.map(item => Math.round(item.total_weather_delay/60))
             carr_name = value
         }
 
