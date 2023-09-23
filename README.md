@@ -23,9 +23,9 @@ For more details about the columns name and their representation [check out this
 **Note:** To open the link in a new tab, you can right-click the link and select "Open Link in New Tab" in your browser.
 
 ## 3. ETL using Jupyter Notebook
-
-
+some of the first steps i tool on this project was to get the data ready for visualization. therefore i used the ETL approach to extract the data 
+**Extracting** 
   
-
+![Screen Shot 2023-09-23 at 12 25 32 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/666addea-19d8-42ed-a316-7fdcf00d1fd9)
 
 
