@@ -46,7 +46,7 @@ To generate a map that show canceled flights percentage by airports, I incorpora
 
 I created a Cancelled percentage column by deviding Cancelled_flights by total_arriving_flights 
 
-* ![Screen Shot 2023-09-23 at 4 42 09 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/b8dcebad-b38c-41c1-b6ac-c2880b03c9f9)
+![Screen Shot 2023-09-23 at 4 42 09 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/b8dcebad-b38c-41c1-b6ac-c2880b03c9f9)
 
 
 
