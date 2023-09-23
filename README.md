@@ -36,7 +36,8 @@ Top 11 airlines in the USA and total delay reason for each airline
 
 ![Screen Shot 2023-09-23 at 2 06 26 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/e64244ec-50ce-4991-af47-b4ed0dadb85e)
 
-![Screen Shot 2023-09-23 at 1 55 49 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/a8307a02-bf63-4cf6-bf59-bda31daa253a)
+![Screen Shot 2023-09-23 at 2 23 53 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/9ba6d9ec-e266-4714-80be-32b65c9a6b4d)
+
 
 
 
