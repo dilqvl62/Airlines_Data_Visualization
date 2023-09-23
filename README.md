@@ -24,7 +24,10 @@ For more details about the columns name and their representation [check out this
 
 ## 3. ETL using Jupyter Notebook
 **1. Extracting** 
-To prepare the data for visualization in this project, I employed the ETL approach, starting with data extraction. I loaded the raw data into a pandas DataFrame, as shown below: ![Screen Shot 2023-09-23 at 12 25 32 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/666addea-19d8-42ed-a316-7fdcf00d1fd9)
+To prepare the data for visualization in this project, I employed the ETL approach, starting with data extraction.
+I loaded the raw data into a pandas DataFrame, as shown below: 
+
+![Screen Shot 2023-09-23 at 12 25 32 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/666addea-19d8-42ed-a316-7fdcf00d1fd9)
 
 Next, I performed data exploration by examining the DataFrame info and assessing the lengths and unique values of 'carrier_name' and 'airport.'
 
