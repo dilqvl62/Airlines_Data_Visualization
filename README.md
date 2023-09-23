@@ -42,11 +42,12 @@ Transformed the Dataframe into the following tables:
 
 ![Screen Shot 2023-09-23 at 2 35 23 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/846e5f25-caae-4d47-a400-ef85d89c0369)
 
-To generate a map that show canceled flights percentage by airports, I incorporated another data set that has the latitude and longitude. I merged it with the original dataset (retaining only the relevant columns for both dataset and focussing on thetop 11 airlines in the USA):
+To generate a map that show canceled flights percentage by airports, I incorporated another data set that has the latitude and longitude. I merged it with the original dataset (retaining only the relevant columns for both dataset and focussing on thetop 11 airlines in the USA)
 
-![Screen Shot 2023-09-23 at 2 53 32 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/0dba07d2-5ea2-4342-889f-83a310524e8d)
+I created a Cancelled percentage column by deviding Cancelled_flights by total_arriving_flights 
 
-* 
+* ![Screen Shot 2023-09-23 at 4 42 09 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/b8dcebad-b38c-41c1-b6ac-c2880b03c9f9)
+
 
 
 
