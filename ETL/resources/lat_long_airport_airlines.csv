@@ -1,341 +1,341 @@
-Airport_name,Airport_Code,Latitude,Longitude,Cancelled_flights
- Aberdeen Regional,ABR,45.45,-98.433333,23.0
- Abilene Regional,ABI,32.416667,-99.683333,26.0
- Abraham Lincoln Capital,SPI,39.85,-89.683333,13.0
- Adak,ADK,51.878056,-176.646111,4.0
- Akron-Canton Regional,CAK,40.916111,-81.442222,7.0
- Albany International,ALB,42.733333,-73.8,157.0
- Albert J Ellis,OAJ,34.716667,-77.416667,2.0
- Albuquerque International Sunport,ABQ,35.040278,-106.609167,311.0
- Alexandria International,AEX,31.3275,-92.548611,29.0
- Alpena County Regional,APN,45.083333,-83.55,20.0
- Appleton International,ATW,44.266667,-88.516667,45.0
- Arnold Palmer Regional,LBE,40.283333,-79.4,20.0
- Asheville Regional,AVL,35.436111,-82.541667,28.0
- Aspen Pitkin County Sardy Field,ASE,39.223056,-106.868889,431.0
- Atlantic City International,ACY,39.466667,-74.583333,94.0
- Augusta Regional at Bush Field,AGS,33.366667,-81.966667,11.0
- Austin - Bergstrom International,AUS,30.194444,-97.67,2011.0
- Baltimore/Washington International Thurgood Marshall,BWI,39.175278,-76.668333,2397.0
- Bangor International,BGR,44.8,-68.816667,8.0
- Barkley Regional,PAH,37.060278,-88.773056,6.0
- Barnstable Municipal-Boardman/Polando Field,HYA,41.669444,-70.280278,3.0
- Baton Rouge Metropolitan/Ryan Field,BTR,30.533333,-91.15,33.0
- Bellingham International,BLI,48.8,-122.533333,19.0
- Bemidji Regional,BJI,47.516667,-94.933333,15.0
- Bert Mooney,BTM,45.954722,-112.4975,3.0
- Bethel Airport,BET,60.783333,-161.833333,14.0
- Bill and Hillary Clinton Nat Adams Field,LIT,34.729444,-92.224444,162.0
- Billings Logan International,BIL,45.8,-108.533333,29.0
- Birmingham-Shuttlesworth International,BHM,33.566667,-86.75,182.0
- Bishop Airport,BIH,37.366667,-118.35,8.0
- Bishop International,FNT,42.965556,-83.743611,16.0
- Bismarck Municipal,BIS,46.783333,-100.75,93.0
- Blue Grass,LEX,38.036389,-84.605833,50.0
- Bob Hope,BUR,34.2,-118.35,871.0
- Boise Air Terminal,BOI,43.564444,-116.222778,236.0
- Bozeman Yellowstone International,BZN,45.7775,-111.153056,139.0
- Bradley International,BDL,41.938889,-72.683333,358.0
- Brainerd Lakes Regional,BRD,46.401667,-94.135556,18.0
- Brownsville South Padre Island International,BRO,25.916667,-97.416667,23.0
- Buffalo Niagara International,BUF,42.940556,-78.732222,567.0
- Burlington International,BTV,44.471944,-73.153333,65.0
- California Redwood Coast Humboldt County,ACV,40.983333,-124.1,68.0
- Canyonlands Field,CNY,38.766667,-109.75,1.0
- Canyonlands Regional,CNY,38.766667,-109.75,5.0
- Cape Cod Gateway,HYA,41.669444,-70.280278,0.0
- Cape Girardeau Regional,CGI,37.216667,-89.566667,2.0
- Capital Region International,LAN,42.783333,-84.583333,8.0
- Casper/Natrona County International,CPR,42.908056,-106.464444,48.0
- Cedar City Regional,CDC,37.7,-113.1,4.0
- Central Il Regional Airport at Bloomington,BMI,40.477222,-88.915833,14.0
- Central Nebraska Regional,GRI,40.9675,-98.309722,11.0
- Central Wisconsin,CWA,44.769444,-89.683056,9.0
- Central Wyoming Regional,RIW,43.064167,-108.459722,6.0
- Charles M. Schulz - Sonoma County,STS,38.516667,-122.8,18.0
- Charleston AFB/International,CHS,32.898611,-80.040556,441.0
- Charlotte Douglas International,CLT,35.216667,-80.933333,2453.0
- Charlottesville Albemarle,CHO,38.133333,-78.45,1.0
- Cherry Capital,TVC,44.741389,-85.582222,40.0
- Cheyenne Regional/Jerry Olson Field,CYS,41.15,-104.8,22.0
- Chicago Midway International,MDW,41.783333,-87.75,2609.0
- Chicago O'Hare International,ORD,41.978611,-87.904722,4973.0
- Chippewa County International,CIU,46.25,-84.466667,14.0
- Chippewa Valley Regional,EAU,44.865833,-91.484167,4.0
- Cincinnati/Northern Kentucky International,CVG,39.048889,-84.667778,337.0
- City of Colorado Springs Municipal,COS,38.816667,-104.716667,248.0
- Cleveland-Hopkins International,CLE,41.416667,-81.85,587.0
- Columbia Metropolitan,CAE,33.95,-81.116667,37.0
- Columbia Regional,COU,38.95,-92.333333,25.0
- Corpus Christi International,CRP,27.770278,-97.501111,54.0
- Dallas Love Field,DAL,32.852778,-96.85,2303.0
- Dallas/Fort Worth International,DFW,32.896944,-97.038056,6330.0
- Dane County Regional-Truax Field,MSN,43.139722,-89.3375,107.0
- Daniel K Inouye International,HNL,21.333333,-157.933333,526.0
- Daytona Beach International,DAB,29.183333,-81.05,44.0
- Deadhorse Airport,SCC,70.333333,-148.333333,2.0
- Decatur Airport,DEC,39.833333,-88.866667,28.0
- Del Rio International,DRT,29.366667,-100.916667,14.0
- Delta County,ESC,45.722778,-87.093611,15.0
- Denver International,DEN,39.861667,-104.673056,5935.0
- Des Moines International,DSM,41.533889,-93.663056,131.0
- Detroit Metro Wayne County,DTW,42.2125,-83.353333,1668.0
- Devils Lake Regional,DVL,48.116667,-98.9,40.0
- Dickinson - Theodore Roosevelt Regional,DIK,46.8,-102.8,37.0
- Dillingham Airport,DLG,59.066667,-158.466667,0.0
- Dodge City Regional,DDC,37.766667,-99.966667,12.0
- Dubuque Regional,DBQ,42.4,-90.716667,3.0
- Duluth International,DLH,46.833333,-92.183333,30.0
- Durango La Plata County,DRO,37.15,-107.75,51.0
- Eagle County Regional,EGE,39.633333,-106.916667,64.0
- East Texas Regional,GGG,32.383333,-94.716667,12.0
- Easterwood Field,CLL,30.588611,-96.363889,31.0
- Eglin AFB Destin Fort Walton Beach,VPS,30.483333,-86.525278,77.0
- El Paso International,ELP,31.8,-106.383333,302.0
- Elko Regional,EKO,40.825,-115.791667,6.0
- Ellison Onizuka Kona International at Keahole,KOA,19.738889,-156.045556,85.0
- Elmira/Corning Regional,ELM,42.166667,-76.9,6.0
- Eppley Airfield,OMA,41.3,-95.9,346.0
- Erie International/Tom Ridge Field,ERI,42.083333,-80.183333,2.0
- Evansville Regional,EVV,38.036944,-87.5325,14.0
- Fairbanks International,FAI,64.816667,-147.866667,41.0
- Falls International Einarson Field,INL,48.566667,-93.4,15.0
- Fayetteville Regional/Grannis Field,FAY,35.0,-78.883333,9.0
- Flagstaff Pulliam,FLG,35.133333,-111.683333,53.0
- Ford,IMT,45.816667,-88.116667,17.0
- Fort Dodge Regional,FOD,42.551111,-94.191944,23.0
- Fort Lauderdale-Hollywood International,FLL,26.0725,-80.152778,1986.0
- Fort Smith Regional,FSM,35.333333,-94.366667,38.0
- Fort Wayne International,FWA,41.116667,-85.116667,45.0
- Frederick Douglass Grtr Rochester International,ROC,43.118889,-77.6725,99.0
- Fresno Yosemite International,FAT,36.766667,-119.716667,111.0
- Friedman Memorial,SUN,43.5,-114.316667,26.0
- Gainesville Regional,GNV,29.683333,-82.266667,23.0
- Garden City Regional,GCK,37.933333,-100.733333,18.0
- General Downing - Peoria International,PIA,40.666667,-89.683333,18.0
- General Mitchell International,MKE,42.95,-87.9,466.0
- George Bush Intercontinental/Houston,IAH,29.984444,-95.341389,1417.0
- Gerald R. Ford International,GRR,42.883333,-85.533333,257.0
- Gillette Campbell County,GCC,44.35,-105.533333,1.0
- Glacier Park International,FCA,48.316667,-114.266667,34.0
- Golden Triangle Regional,GTR,33.466667,-88.383333,0.0
- Grand Forks International,GFK,47.95,-97.183333,27.0
- Grand Junction Regional,GJT,39.116667,-108.516667,29.0
- Great Falls International,GTF,47.5,-111.366667,15.0
- Greater Rochester International,ROC,43.118889,-77.6725,64.0
- Green Bay Austin Straubel International,GRB,44.483333,-88.133333,40.0
- Greenbrier Valley,LWB,37.783333,-80.336111,3.0
- Greenville-Spartanburg International,GSP,34.895556,-82.218889,68.0
- Gulfport-Biloxi International,GPT,30.4,-89.066667,18.0
- Gunnison-Crested Butte Regional,GUC,38.533333,-106.933333,45.0
- Gustavus Airport,GST,58.416667,-135.7,4.0
- Harrisburg International,MDT,40.193611,-76.763333,37.0
- Harry Reid International,LAS,36.083333,-115.166667,2296.0
- Hartsfield-Jackson Atlanta International,ATL,33.636667,-84.428056,4117.0
- Hattiesburg-Laurel Regional,PIB,31.467222,-89.336944,2.0
- Hays Regional,HYS,38.85,-99.266667,9.0
- Hector International,FAR,46.916667,-96.816667,154.0
- Helena Regional,HLN,46.6,-111.983333,8.0
- Hilo International,ITO,19.716667,-155.05,39.0
- Hilton Head Airport,HHH,32.224444,-80.6975,3.0
- Houghton County Memorial,CMX,47.123611,-88.573333,38.0
- Huntsville International-Carl T Jones Field,HSV,34.637222,-86.775,53.0
- Idaho Falls Regional,IDA,43.516667,-112.066667,42.0
- Indianapolis International,IND,39.717222,-86.294722,577.0
- Ithaca Tompkins Regional,ITH,42.483333,-76.466667,0.0
- Jack Brooks Regional,BPT,30.083333,-94.1,21.0
- Jackson Hole,JAC,43.6,-110.733333,62.0
- Jackson Medgar Wiley Evers International,JAN,32.311111,-90.075833,69.0
- Jacksonville International,JAX,30.416667,-81.633333,490.0
- James M Cox/Dayton International,DAY,39.75,-84.183333,22.0
- Jamestown Regional,JMS,46.933333,-98.683333,37.0
- Joe Foss Field,FSD,43.581944,-96.741944,115.0
- John F. Kennedy International,JFK,40.633333,-73.783333,2194.0
- John Glenn Columbus International,CMH,40.0,-82.883333,586.0
- John Murtha Johnstown-Cambria County,JST,40.316667,-78.833333,19.0
- John Wayne Airport-Orange County,SNA,33.666667,-117.866667,900.0
- Joplin Regional,JLN,37.151944,-94.498333,8.0
- Joslin Field - Magic Valley Regional,TWF,42.481667,-114.487778,4.0
- Juneau International,JNU,58.35,-134.583333,123.0
- Kahului Airport,OGG,20.898611,-156.430556,282.0
- Kalamazoo/Battle Creek International,AZO,42.235,-85.551944,11.0
- Kansas City International,MCI,39.291667,-94.730556,783.0
- Kearney Regional,EAR,40.733333,-99.016667,6.0
- Ketchikan International,KTN,55.333333,-131.65,42.0
- Key Field,MEI,32.333333,-88.75,4.0
- Key West International,EYW,24.55,-81.766667,113.0
- King Salmon Airport,AKN,58.516667,-156.633333,4.0
- Kodiak Airport,ADQ,57.75,-152.483333,28.0
- La Crosse Regional,LSE,43.883333,-91.25,7.0
- LaGuardia,LGA,40.766667,-73.866667,3121.0
- Lafayette Regional Paul Fournet Field,LFT,30.205278,-91.9875,25.0
- Lake Charles Regional,LCH,30.116667,-93.216667,26.0
- Laramie Regional,LAR,41.316667,-105.666667,29.0
- Laredo International,LRD,27.533333,-99.466667,26.0
- Lawton-Fort Sill Regional,LAW,34.566667,-98.416667,25.0
- Lea County Regional,HOB,32.683333,-103.216667,0.0
- Lehigh Valley International,ABE,40.652222,-75.440278,11.0
- Lewiston Nez Perce County,LWS,46.383333,-117.033333,6.0
- Liberal Mid-America Regional,LBL,37.05,-100.966667,13.0
- Lihue Airport,LIH,21.983333,-159.35,134.0
- Lincoln Airport,LNK,40.850833,-96.759167,5.0
- Logan International,BOS,42.363056,-71.0,2319.0
- Long Beach Airport,LGB,33.816667,-118.15,255.0
- Long Island MacArthur,ISP,40.795278,-73.100278,101.0
- Los Angeles International,LAX,33.9425,-118.407222,2428.0
- Louis Armstrong New Orleans International,MSY,29.993333,-90.258056,880.0
- Louisville Muhammad Ali International,SDF,38.174444,-85.736111,232.0
- Lovell Field,CHA,35.035278,-85.203889,31.0
- Lubbock Preston Smith International,LBB,33.666667,-101.833333,123.0
- MBS International,MBS,43.532778,-83.079722,10.0
- Mahlon Sweet Field,EUG,44.116667,-123.216667,63.0
- Manchester Boston Regional,MHT,42.9325,-71.435556,83.0
- Manchester-Boston Regional,MHT,42.9325,-71.435556,49.0
- Manhattan Regional,MHK,39.133333,-96.666667,24.0
- Mason City Municipal,MCW,43.157778,-93.331389,20.0
- McAllen Miller International,MFE,26.175833,-98.238611,55.0
- McCarran International,LAS,36.083333,-115.166667,1196.0
- McGhee Tyson,TYS,35.95,-83.916667,66.0
- Meadows Field,BFL,35.433611,-119.056667,30.0
- Melbourne International,MLB,28.1,-80.633333,9.0
- Melbourne Orlando International,MLB,28.1,-80.633333,10.0
- Memphis International,MEM,35.066667,-89.966667,296.0
- Merle K Mudhole Smith,CDV,60.483333,-145.483333,15.0
- Metro Oakland International,OAK,37.716667,-122.216667,700.0
- Metropolitan Oakland International,OAK,37.716667,-122.216667,239.0
- Miami International,MIA,25.783333,-80.266667,1976.0
- Midland International Air and Space Port,MAF,31.9425,-102.201944,139.0
- Minneapolis-St Paul International,MSP,44.883333,-93.216944,2072.0
- Minot International,MOT,48.266667,-101.283333,52.0
- Missoula International,MSO,46.916667,-114.083333,6.0
- Missoula Montana,MSO,46.916667,-114.083333,14.0
- Mobile Regional,MOB,30.691111,-88.242778,21.0
- Monroe Regional,MLU,32.5,-92.033333,40.0
- Monterey Regional,MRY,36.583333,-121.85,17.0
- Montgomery Regional,MGM,32.3,-86.4,9.0
- Montrose Regional,MTJ,38.509722,-107.894167,59.0
- Muskegon County,MKG,43.166667,-86.233333,8.0
- Myrtle Beach International,MYR,33.7,-78.966667,211.0
- Nantucket Memorial,ACK,41.266667,-70.066667,35.0
- Nashville International,BNA,36.124444,-86.678056,1700.0
- New Castle,ILG,39.683333,-75.6,2.0
- New York Stewart International,SWF,41.5,-74.016667,13.0
- Newark Liberty International,EWR,40.6925,-74.168611,2691.0
- Niagara Falls International,IAG,43.1,-79.033333,0.0
- Nome Airport,OME,64.516667,-165.433333,42.0
- Norfolk International,ORF,36.9,-76.2,182.0
- Norman Y. Mineta San Jose International,SJC,37.352778,-121.919444,1021.0
- North Central West Virginia,CKB,39.3,-80.233333,10.0
- North Platte Regional Airport Lee Bird Field,LBF,41.133333,-100.7,28.0
- Northeast Wyoming Regional,GCC,44.35,-105.533333,8.0
- Northwest Arkansas National,XNA,36.281667,-94.306667,63.0
- Northwest Arkansas Regional,XNA,36.281667,-94.306667,36.0
- Ogdensburg International,OGS,44.683333,-75.466667,1.0
- Ontario International,ONT,34.056111,-117.601111,410.0
- Orlando International,MCO,28.429444,-81.308889,4363.0
- Palm Beach International,PBI,26.683056,-80.095556,595.0
- Palm Springs International,PSP,33.833333,-116.5,194.0
- Pellston Regional Airport of Emmet County,PLN,45.566667,-84.8,17.0
- Pensacola International,PNS,30.466667,-87.183333,143.0
- Petersburg James A Johnson,PSG,56.8,-132.983333,17.0
- Philadelphia International,PHL,39.871944,-75.241111,1249.0
- Phoenix Sky Harbor International,PHX,33.433333,-112.033333,2467.0
- Piedmont Triad International,GSO,36.097778,-79.937222,48.0
- Pittsburgh International,PIT,40.491389,-80.232778,476.0
- Plattsburgh International,PBG,44.650833,73.468056,2.0
- Pocatello Regional,PIH,42.916667,-112.583333,2.0
- Portland International,PDX,45.588611,-122.5975,1044.0
- Portland International Jetport,PWM,43.65,-70.3,159.0
- Prescott Regional Ernest A Love Field,PRC,34.65,-112.416667,6.0
- Pueblo Memorial,PUB,38.283333,-104.5,4.0
- Quad Cities International,MLI,41.45,-90.516667,26.0
- Quad City International,MLI,41.45,-90.516667,14.0
- Raleigh-Durham International,RDU,35.877778,-78.7875,774.0
- Ralph Wien Memorial,OTZ,66.866667,-162.633333,48.0
- Range Regional,HIB,47.383333,-92.833333,14.0
- Rapid City Regional,RAP,44.033333,-103.05,103.0
- Redding Municipal,RDD,40.5,-122.3,14.0
- Reno/Tahoe International,RNO,39.499167,-119.768056,341.0
- Rhinelander/Oneida County,RHI,45.633333,-89.45,10.0
- Rhode Island Tf Green International,PVD,41.733333,-71.433333,114.0
- Richmond International,RIC,37.5,-77.316667,178.0
- Rick Husband Amarillo International,AMA,35.226389,-101.705833,121.0
- Riverton Regional,RIW,43.064167,-108.459722,4.0
- Roanoke Blacksburg Regional,ROA,37.316667,-79.983333,5.0
- Roanoke Blacksburg Regional Woodrum Field,ROA,37.316667,-79.983333,3.0
- Robert Gray AAF,GRK,31.067222,-97.828889,39.0
- Roberts Field,RDM,44.25,-121.15,44.0
- Rochester International,RST,43.908333,-92.5,36.0
- Rogue Valley International - Medford,MFR,42.366667,-122.866667,26.0
- Ronald Reagan Washington National,DCA,38.851944,-77.037778,1959.0
- Roswell Air Center,ROW,33.416667,-104.55,9.0
- Roswell International Air Center,ROW,33.416667,-104.55,3.0
- Sacramento International,SMF,38.7,-121.616667,1018.0
- Salina Regional,SLN,38.816667,-97.566667,13.0
- Salt Lake City International,SLC,40.788333,-111.966667,1314.0
- San Angelo Regional/Mathis Field,SJT,31.357778,-100.496389,33.0
- San Antonio International,SAT,29.533333,-98.466667,600.0
- San Diego International,SAN,32.733333,-117.183333,1567.0
- San Francisco International,SFO,37.618889,-122.375,1877.0
- San Luis County Regional,SBP,35.236944,-120.641944,55.0
- San Luis Valley Regional/Bergman Field,ALS,37.433333,-105.866667,2.0
- Santa Barbara Municipal,SBA,33.426111,-119.840278,151.0
- Santa Fe Municipal,SAF,35.616667,-106.083333,29.0
- Sarasota/Bradenton International,SRQ,27.395556,-82.554444,287.0
- Savannah/Hilton Head International,SAV,32.133333,-81.2,229.0
- Sawyer International,MQT,46.533333,-87.566667,16.0
- Seattle/Tacoma International,SEA,47.448889,-122.309444,2606.0
- Shenandoah Valley Regional,SHD,38.266667,-78.9,2.0
- Sheppard AFB/Wichita Falls Municipal,SPS,33.983333,-98.516667,23.0
- Sheridan County,SHR,44.766667,-106.966667,8.0
- Shreveport Regional,SHV,32.45,-93.816667,36.0
- Sioux Gateway Brig Gen Bud Day Field,SUX,42.4,-96.383333,20.0
- Sitka Rocky Gutierrez,SIT,57.066667,-135.35,42.0
- Snohomish County,PAE,47.919444,-122.283611,9.0
- South Bend International,SBN,41.7,-86.316667,58.0
- Southwest Florida International,RSW,26.542222,-81.755278,1471.0
- Southwest Oregon Regional,OTH,43.416667,-124.25,2.0
- Southwest Wyoming Regional,RKS,41.6,-109.066667,5.0
- Spokane International,GEG,47.619722,-117.533889,205.0
- Springfield-Branson National,SGF,37.25,-93.383333,60.0
- St George Regional,SGU,37.083333,-113.6,9.0
- St Louis Lambert International,STL,38.748611,-90.37,1152.0
- Stillwater Regional,SWO,36.166667,-97.083333,16.0
- Syracuse Hancock International,SYR,43.116667,-76.116667,158.0
- Tallahassee International,TLH,30.396389,-84.350278,24.0
- Tampa International,TPA,27.975556,-82.533056,1889.0
- Ted Stevens Anchorage International,ANC,61.174444,-149.996389,389.0
- The Eastern Iowa,CID,41.884722,-91.710833,84.0
- Theodore Francis Green State,PVD,41.733333,-71.433333,112.0
- Toledo Express,TOL,41.586944,-83.807778,2.0
- Trenton Mercer,TTN,40.276667,-74.813333,64.0
- Tri Cities,PSC,46.264722,-119.119167,40.0
- Tucson International,TUS,32.116111,-110.941111,194.0
- Tulsa International,TUL,36.198333,-95.888056,243.0
- Tyler Pounds Regional,TYR,32.354167,-95.4025,25.0
- University Park,SCE,40.772222,-77.883333,7.0
- University of Illinois/Willard,CMI,40.033333,-88.283333,23.0
- Valley International,HRL,26.2,-97.75,79.0
- Vernal Regional,VEL,40.45,-109.516667,30.0
- Victoria Regional,VCT,28.85,-96.916667,8.0
- Waco Regional,ACT,31.616667,-97.233333,33.0
- Washington Dulles International,IAD,38.944444,-77.455833,618.0
- Waterloo Regional,ALO,42.55,-92.383333,15.0
- Waynesville-St. Robert Regional Forney Field,TBN,37.733333,-92.15,8.0
- West Virginia International Yeager,CRW,38.366667,-81.6,16.0
- Westchester County,HPN,41.066667,-73.7,196.0
- Western Neb. Regional/William B. Heilig Field,BFF,41.866667,-103.6,18.0
- Wichita Dwight D Eisenhower National,ICT,37.65,-97.433333,134.0
- Wiley Post/Will Rogers Memorial,BRW,71.333333,-156.65,27.0
- Wilkes Barre Scranton International,AVP,41.338333,-75.723333,32.0
- Will Rogers World,OKC,35.393056,-97.600833,286.0
- William P Hobby,HOU,29.645556,-95.278889,1102.0
- Wilmington International,ILM,34.270556,-77.9025,36.0
- Worcester Regional,ORH,42.267222,-71.875833,49.0
- Wrangell Airport,WRG,56.466667,-132.383333,20.0
- Yakutat Airport,YAK,59.5,-139.666667,14.0
- Yampa Valley,HDN,40.519444,-106.869444,70.0
- Yeager,CRW,38.366667,-81.6,1.0
- Yellowstone,WYS,44.683333,-111.116667,1.0
- Yellowstone Regional,COD,44.516667,-109.033333,7.0
- Yuma MCAS/Yuma International,YUM,32.65,-114.6,7.0
+Airport_name,Airport_Code,Latitude,Longitude,total_arriving_flights,Cancelled_flights,Cancelled_percentage
+ Aberdeen Regional,ABR,45.45,-98.433333,711.0,23.0,3.23
+ Abilene Regional,ABI,32.416667,-99.683333,1664.0,26.0,1.56
+ Abraham Lincoln Capital,SPI,39.85,-89.683333,801.0,13.0,1.62
+ Adak,ADK,51.878056,-176.646111,104.0,4.0,3.85
+ Akron-Canton Regional,CAK,40.916111,-81.442222,384.0,7.0,1.82
+ Albany International,ALB,42.733333,-73.8,7949.0,157.0,1.98
+ Albert J Ellis,OAJ,34.716667,-77.416667,563.0,2.0,0.36
+ Albuquerque International Sunport,ABQ,35.040278,-106.609167,20594.0,311.0,1.51
+ Alexandria International,AEX,31.3275,-92.548611,1152.0,29.0,2.52
+ Alpena County Regional,APN,45.083333,-83.55,630.0,20.0,3.17
+ Appleton International,ATW,44.266667,-88.516667,2566.0,45.0,1.75
+ Arnold Palmer Regional,LBE,40.283333,-79.4,717.0,20.0,2.79
+ Asheville Regional,AVL,35.436111,-82.541667,3760.0,28.0,0.74
+ Aspen Pitkin County Sardy Field,ASE,39.223056,-106.868889,6478.0,431.0,6.65
+ Atlantic City International,ACY,39.466667,-74.583333,3233.0,94.0,2.91
+ Augusta Regional at Bush Field,AGS,33.366667,-81.966667,1731.0,11.0,0.64
+ Austin - Bergstrom International,AUS,30.194444,-97.67,88018.0,2011.0,2.28
+ Baltimore/Washington International Thurgood Marshall,BWI,39.175278,-76.668333,87214.0,2397.0,2.75
+ Bangor International,BGR,44.8,-68.816667,440.0,8.0,1.82
+ Barkley Regional,PAH,37.060278,-88.773056,505.0,6.0,1.19
+ Barnstable Municipal-Boardman/Polando Field,HYA,41.669444,-70.280278,118.0,3.0,2.54
+ Baton Rouge Metropolitan/Ryan Field,BTR,30.533333,-91.15,2556.0,33.0,1.29
+ Bellingham International,BLI,48.8,-122.533333,1194.0,19.0,1.59
+ Bemidji Regional,BJI,47.516667,-94.933333,744.0,15.0,2.02
+ Bert Mooney,BTM,45.954722,-112.4975,612.0,3.0,0.49
+ Bethel Airport,BET,60.783333,-161.833333,712.0,14.0,1.97
+ Bill and Hillary Clinton Nat Adams Field,LIT,34.729444,-92.224444,10208.0,162.0,1.59
+ Billings Logan International,BIL,45.8,-108.533333,3245.0,29.0,0.89
+ Birmingham-Shuttlesworth International,BHM,33.566667,-86.75,10043.0,182.0,1.81
+ Bishop Airport,BIH,37.366667,-118.35,257.0,8.0,3.11
+ Bishop International,FNT,42.965556,-83.743611,817.0,16.0,1.96
+ Bismarck Municipal,BIS,46.783333,-100.75,3259.0,93.0,2.85
+ Blue Grass,LEX,38.036389,-84.605833,3892.0,50.0,1.28
+ Bob Hope,BUR,34.2,-118.35,30509.0,871.0,2.85
+ Boise Air Terminal,BOI,43.564444,-116.222778,20901.0,236.0,1.13
+ Bozeman Yellowstone International,BZN,45.7775,-111.153056,9281.0,139.0,1.5
+ Bradley International,BDL,41.938889,-72.683333,19085.0,358.0,1.88
+ Brainerd Lakes Regional,BRD,46.401667,-94.135556,748.0,18.0,2.41
+ Brownsville South Padre Island International,BRO,25.916667,-97.416667,1244.0,23.0,1.85
+ Buffalo Niagara International,BUF,42.940556,-78.732222,14528.0,567.0,3.9
+ Burlington International,BTV,44.471944,-73.153333,3239.0,65.0,2.01
+ California Redwood Coast Humboldt County,ACV,40.983333,-124.1,1797.0,68.0,3.78
+ Canyonlands Field,CNY,38.766667,-109.75,323.0,1.0,0.31
+ Canyonlands Regional,CNY,38.766667,-109.75,329.0,5.0,1.52
+ Cape Cod Gateway,HYA,41.669444,-70.280278,6.0,0.0,0.0
+ Cape Girardeau Regional,CGI,37.216667,-89.566667,317.0,2.0,0.63
+ Capital Region International,LAN,42.783333,-84.583333,658.0,8.0,1.22
+ Casper/Natrona County International,CPR,42.908056,-106.464444,1737.0,48.0,2.76
+ Cedar City Regional,CDC,37.7,-113.1,620.0,4.0,0.65
+ Central Il Regional Airport at Bloomington,BMI,40.477222,-88.915833,1454.0,14.0,0.96
+ Central Nebraska Regional,GRI,40.9675,-98.309722,726.0,11.0,1.52
+ Central Wisconsin,CWA,44.769444,-89.683056,690.0,9.0,1.3
+ Central Wyoming Regional,RIW,43.064167,-108.459722,212.0,6.0,2.83
+ Charles M. Schulz - Sonoma County,STS,38.516667,-122.8,3241.0,18.0,0.56
+ Charleston AFB/International,CHS,32.898611,-80.040556,18228.0,441.0,2.42
+ Charlotte Douglas International,CLT,35.216667,-80.933333,131749.0,2453.0,1.86
+ Charlottesville Albemarle,CHO,38.133333,-78.45,213.0,1.0,0.47
+ Cherry Capital,TVC,44.741389,-85.582222,2825.0,40.0,1.42
+ Cheyenne Regional/Jerry Olson Field,CYS,41.15,-104.8,642.0,22.0,3.43
+ Chicago Midway International,MDW,41.783333,-87.75,81756.0,2609.0,3.19
+ Chicago O'Hare International,ORD,41.978611,-87.904722,244547.0,4973.0,2.03
+ Chippewa County International,CIU,46.25,-84.466667,718.0,14.0,1.95
+ Chippewa Valley Regional,EAU,44.865833,-91.484167,265.0,4.0,1.51
+ Cincinnati/Northern Kentucky International,CVG,39.048889,-84.667778,20553.0,337.0,1.64
+ City of Colorado Springs Municipal,COS,38.816667,-104.716667,11510.0,248.0,2.15
+ Cleveland-Hopkins International,CLE,41.416667,-81.85,29279.0,587.0,2.0
+ Columbia Metropolitan,CAE,33.95,-81.116667,2780.0,37.0,1.33
+ Columbia Regional,COU,38.95,-92.333333,1629.0,25.0,1.53
+ Corpus Christi International,CRP,27.770278,-97.501111,3103.0,54.0,1.74
+ Dallas Love Field,DAL,32.852778,-96.85,68921.0,2303.0,3.34
+ Dallas/Fort Worth International,DFW,32.896944,-97.038056,259860.0,6330.0,2.44
+ Dane County Regional-Truax Field,MSN,43.139722,-89.3375,8453.0,107.0,1.27
+ Daniel K Inouye International,HNL,21.333333,-157.933333,57721.0,526.0,0.91
+ Daytona Beach International,DAB,29.183333,-81.05,2030.0,44.0,2.17
+ Deadhorse Airport,SCC,70.333333,-148.333333,308.0,2.0,0.65
+ Decatur Airport,DEC,39.833333,-88.866667,1112.0,28.0,2.52
+ Del Rio International,DRT,29.366667,-100.916667,668.0,14.0,2.1
+ Delta County,ESC,45.722778,-87.093611,709.0,15.0,2.12
+ Denver International,DEN,39.861667,-104.673056,277130.0,5935.0,2.14
+ Des Moines International,DSM,41.533889,-93.663056,8925.0,131.0,1.47
+ Detroit Metro Wayne County,DTW,42.2125,-83.353333,101896.0,1668.0,1.64
+ Devils Lake Regional,DVL,48.116667,-98.9,669.0,40.0,5.98
+ Dickinson - Theodore Roosevelt Regional,DIK,46.8,-102.8,311.0,37.0,11.9
+ Dillingham Airport,DLG,59.066667,-158.466667,110.0,0.0,0.0
+ Dodge City Regional,DDC,37.766667,-99.966667,624.0,12.0,1.92
+ Dubuque Regional,DBQ,42.4,-90.716667,257.0,3.0,1.17
+ Duluth International,DLH,46.833333,-92.183333,1176.0,30.0,2.55
+ Durango La Plata County,DRO,37.15,-107.75,3080.0,51.0,1.66
+ Eagle County Regional,EGE,39.633333,-106.916667,3054.0,64.0,2.1
+ East Texas Regional,GGG,32.383333,-94.716667,752.0,12.0,1.6
+ Easterwood Field,CLL,30.588611,-96.363889,1205.0,31.0,2.57
+ Eglin AFB Destin Fort Walton Beach,VPS,30.483333,-86.525278,5790.0,77.0,1.33
+ El Paso International,ELP,31.8,-106.383333,15693.0,302.0,1.92
+ Elko Regional,EKO,40.825,-115.791667,366.0,6.0,1.64
+ Ellison Onizuka Kona International at Keahole,KOA,19.738889,-156.045556,16727.0,85.0,0.51
+ Elmira/Corning Regional,ELM,42.166667,-76.9,701.0,6.0,0.86
+ Eppley Airfield,OMA,41.3,-95.9,19447.0,346.0,1.78
+ Erie International/Tom Ridge Field,ERI,42.083333,-80.183333,159.0,2.0,1.26
+ Evansville Regional,EVV,38.036944,-87.5325,1161.0,14.0,1.21
+ Fairbanks International,FAI,64.816667,-147.866667,3382.0,41.0,1.21
+ Falls International Einarson Field,INL,48.566667,-93.4,604.0,15.0,2.48
+ Fayetteville Regional/Grannis Field,FAY,35.0,-78.883333,764.0,9.0,1.18
+ Flagstaff Pulliam,FLG,35.133333,-111.683333,1893.0,53.0,2.8
+ Ford,IMT,45.816667,-88.116667,725.0,17.0,2.34
+ Fort Dodge Regional,FOD,42.551111,-94.191944,535.0,23.0,4.3
+ Fort Lauderdale-Hollywood International,FLL,26.0725,-80.152778,82121.0,1986.0,2.42
+ Fort Smith Regional,FSM,35.333333,-94.366667,1156.0,38.0,3.29
+ Fort Wayne International,FWA,41.116667,-85.116667,3497.0,45.0,1.29
+ Frederick Douglass Grtr Rochester International,ROC,43.118889,-77.6725,4248.0,99.0,2.33
+ Fresno Yosemite International,FAT,36.766667,-119.716667,9561.0,111.0,1.16
+ Friedman Memorial,SUN,43.5,-114.316667,1674.0,26.0,1.55
+ Gainesville Regional,GNV,29.683333,-82.266667,2403.0,23.0,0.96
+ Garden City Regional,GCK,37.933333,-100.733333,722.0,18.0,2.49
+ General Downing - Peoria International,PIA,40.666667,-89.683333,996.0,18.0,1.81
+ General Mitchell International,MKE,42.95,-87.9,20798.0,466.0,2.24
+ George Bush Intercontinental/Houston,IAH,29.984444,-95.341389,107092.0,1417.0,1.32
+ Gerald R. Ford International,GRR,42.883333,-85.533333,11081.0,257.0,2.32
+ Gillette Campbell County,GCC,44.35,-105.533333,262.0,1.0,0.38
+ Glacier Park International,FCA,48.316667,-114.266667,3289.0,34.0,1.03
+ Golden Triangle Regional,GTR,33.466667,-88.383333,3.0,0.0,0.0
+ Grand Forks International,GFK,47.95,-97.183333,1065.0,27.0,2.54
+ Grand Junction Regional,GJT,39.116667,-108.516667,2836.0,29.0,1.02
+ Great Falls International,GTF,47.5,-111.366667,1943.0,15.0,0.77
+ Greater Rochester International,ROC,43.118889,-77.6725,3329.0,64.0,1.92
+ Green Bay Austin Straubel International,GRB,44.483333,-88.133333,3076.0,40.0,1.3
+ Greenbrier Valley,LWB,37.783333,-80.336111,366.0,3.0,0.82
+ Greenville-Spartanburg International,GSP,34.895556,-82.218889,7269.0,68.0,0.94
+ Gulfport-Biloxi International,GPT,30.4,-89.066667,1729.0,18.0,1.04
+ Gunnison-Crested Butte Regional,GUC,38.533333,-106.933333,838.0,45.0,5.37
+ Gustavus Airport,GST,58.416667,-135.7,110.0,4.0,3.64
+ Harrisburg International,MDT,40.193611,-76.763333,2984.0,37.0,1.24
+ Harry Reid International,LAS,36.083333,-115.166667,102997.0,2296.0,2.23
+ Hartsfield-Jackson Atlanta International,ATL,33.636667,-84.428056,294341.0,4117.0,1.4
+ Hattiesburg-Laurel Regional,PIB,31.467222,-89.336944,662.0,2.0,0.3
+ Hays Regional,HYS,38.85,-99.266667,730.0,9.0,1.23
+ Hector International,FAR,46.916667,-96.816667,5159.0,154.0,2.99
+ Helena Regional,HLN,46.6,-111.983333,1080.0,8.0,0.74
+ Hilo International,ITO,19.716667,-155.05,6572.0,39.0,0.59
+ Hilton Head Airport,HHH,32.224444,-80.6975,440.0,3.0,0.68
+ Houghton County Memorial,CMX,47.123611,-88.573333,706.0,38.0,5.38
+ Huntsville International-Carl T Jones Field,HSV,34.637222,-86.775,4849.0,53.0,1.09
+ Idaho Falls Regional,IDA,43.516667,-112.066667,3388.0,42.0,1.24
+ Indianapolis International,IND,39.717222,-86.294722,25691.0,577.0,2.25
+ Ithaca Tompkins Regional,ITH,42.483333,-76.466667,57.0,0.0,0.0
+ Jack Brooks Regional,BPT,30.083333,-94.1,726.0,21.0,2.89
+ Jackson Hole,JAC,43.6,-110.733333,4784.0,62.0,1.3
+ Jackson Medgar Wiley Evers International,JAN,32.311111,-90.075833,6012.0,69.0,1.15
+ Jacksonville International,JAX,30.416667,-81.633333,22350.0,490.0,2.19
+ James M Cox/Dayton International,DAY,39.75,-84.183333,2399.0,22.0,0.92
+ Jamestown Regional,JMS,46.933333,-98.683333,686.0,37.0,5.39
+ Joe Foss Field,FSD,43.581944,-96.741944,4935.0,115.0,2.33
+ John F. Kennedy International,JFK,40.633333,-73.783333,96898.0,2194.0,2.26
+ John Glenn Columbus International,CMH,40.0,-82.883333,26122.0,586.0,2.24
+ John Murtha Johnstown-Cambria County,JST,40.316667,-78.833333,725.0,19.0,2.62
+ John Wayne Airport-Orange County,SNA,33.666667,-117.866667,45501.0,900.0,1.98
+ Joplin Regional,JLN,37.151944,-94.498333,624.0,8.0,1.28
+ Joslin Field - Magic Valley Regional,TWF,42.481667,-114.487778,422.0,4.0,0.95
+ Juneau International,JNU,58.35,-134.583333,4805.0,123.0,2.56
+ Kahului Airport,OGG,20.898611,-156.430556,30929.0,282.0,0.91
+ Kalamazoo/Battle Creek International,AZO,42.235,-85.551944,540.0,11.0,2.04
+ Kansas City International,MCI,39.291667,-94.730556,40218.0,783.0,1.95
+ Kearney Regional,EAR,40.733333,-99.016667,317.0,6.0,1.89
+ Ketchikan International,KTN,55.333333,-131.65,2479.0,42.0,1.69
+ Key Field,MEI,32.333333,-88.75,827.0,4.0,0.48
+ Key West International,EYW,24.55,-81.766667,5076.0,113.0,2.23
+ King Salmon Airport,AKN,58.516667,-156.633333,243.0,4.0,1.65
+ Kodiak Airport,ADQ,57.75,-152.483333,902.0,28.0,3.1
+ La Crosse Regional,LSE,43.883333,-91.25,1005.0,7.0,0.7
+ LaGuardia,LGA,40.766667,-73.866667,89262.0,3121.0,3.5
+ Lafayette Regional Paul Fournet Field,LFT,30.205278,-91.9875,1996.0,25.0,1.25
+ Lake Charles Regional,LCH,30.116667,-93.216667,1084.0,26.0,2.4
+ Laramie Regional,LAR,41.316667,-105.666667,628.0,29.0,4.62
+ Laredo International,LRD,27.533333,-99.466667,1219.0,26.0,2.13
+ Lawton-Fort Sill Regional,LAW,34.566667,-98.416667,1043.0,25.0,2.4
+ Lea County Regional,HOB,32.683333,-103.216667,46.0,0.0,0.0
+ Lehigh Valley International,ABE,40.652222,-75.440278,1468.0,11.0,0.75
+ Lewiston Nez Perce County,LWS,46.383333,-117.033333,904.0,6.0,0.66
+ Liberal Mid-America Regional,LBL,37.05,-100.966667,624.0,13.0,2.08
+ Lihue Airport,LIH,21.983333,-159.35,15858.0,134.0,0.84
+ Lincoln Airport,LNK,40.850833,-96.759167,338.0,5.0,1.48
+ Logan International,BOS,42.363056,-71.0,115464.0,2319.0,2.01
+ Long Beach Airport,LGB,33.816667,-118.15,15227.0,255.0,1.67
+ Long Island MacArthur,ISP,40.795278,-73.100278,4270.0,101.0,2.37
+ Los Angeles International,LAX,33.9425,-118.407222,188937.0,2428.0,1.29
+ Louis Armstrong New Orleans International,MSY,29.993333,-90.258056,47443.0,880.0,1.85
+ Louisville Muhammad Ali International,SDF,38.174444,-85.736111,12907.0,232.0,1.8
+ Lovell Field,CHA,35.035278,-85.203889,2940.0,31.0,1.05
+ Lubbock Preston Smith International,LBB,33.666667,-101.833333,4530.0,123.0,2.72
+ MBS International,MBS,43.532778,-83.079722,326.0,10.0,3.07
+ Mahlon Sweet Field,EUG,44.116667,-123.216667,6538.0,63.0,0.96
+ Manchester Boston Regional,MHT,42.9325,-71.435556,2232.0,83.0,3.72
+ Manchester-Boston Regional,MHT,42.9325,-71.435556,2032.0,49.0,2.41
+ Manhattan Regional,MHK,39.133333,-96.666667,1695.0,24.0,1.42
+ Mason City Municipal,MCW,43.157778,-93.331389,535.0,20.0,3.74
+ McAllen Miller International,MFE,26.175833,-98.238611,2340.0,55.0,2.35
+ McCarran International,LAS,36.083333,-115.166667,72318.0,1196.0,1.65
+ McGhee Tyson,TYS,35.95,-83.916667,5203.0,66.0,1.27
+ Meadows Field,BFL,35.433611,-119.056667,1745.0,30.0,1.72
+ Melbourne International,MLB,28.1,-80.633333,503.0,9.0,1.79
+ Melbourne Orlando International,MLB,28.1,-80.633333,789.0,10.0,1.27
+ Memphis International,MEM,35.066667,-89.966667,16161.0,296.0,1.83
+ Merle K Mudhole Smith,CDV,60.483333,-145.483333,722.0,15.0,2.08
+ Metro Oakland International,OAK,37.716667,-122.216667,26622.0,700.0,2.63
+ Metropolitan Oakland International,OAK,37.716667,-122.216667,21024.0,239.0,1.14
+ Miami International,MIA,25.783333,-80.266667,101603.0,1976.0,1.94
+ Midland International Air and Space Port,MAF,31.9425,-102.201944,6575.0,139.0,2.11
+ Minneapolis-St Paul International,MSP,44.883333,-93.216944,108011.0,2072.0,1.92
+ Minot International,MOT,48.266667,-101.283333,1862.0,52.0,2.79
+ Missoula International,MSO,46.916667,-114.083333,1767.0,6.0,0.34
+ Missoula Montana,MSO,46.916667,-114.083333,1583.0,14.0,0.88
+ Mobile Regional,MOB,30.691111,-88.242778,1902.0,21.0,1.1
+ Monroe Regional,MLU,32.5,-92.033333,1095.0,40.0,3.65
+ Monterey Regional,MRY,36.583333,-121.85,3504.0,17.0,0.49
+ Montgomery Regional,MGM,32.3,-86.4,442.0,9.0,2.04
+ Montrose Regional,MTJ,38.509722,-107.894167,2735.0,59.0,2.16
+ Muskegon County,MKG,43.166667,-86.233333,285.0,8.0,2.81
+ Myrtle Beach International,MYR,33.7,-78.966667,12096.0,211.0,1.74
+ Nantucket Memorial,ACK,41.266667,-70.066667,967.0,35.0,3.62
+ Nashville International,BNA,36.124444,-86.678056,78614.0,1700.0,2.16
+ New Castle,ILG,39.683333,-75.6,9.0,2.0,22.22
+ New York Stewart International,SWF,41.5,-74.016667,376.0,13.0,3.46
+ Newark Liberty International,EWR,40.6925,-74.168611,101815.0,2691.0,2.64
+ Niagara Falls International,IAG,43.1,-79.033333,13.0,0.0,0.0
+ Nome Airport,OME,64.516667,-165.433333,723.0,42.0,5.81
+ Norfolk International,ORF,36.9,-76.2,10834.0,182.0,1.68
+ Norman Y. Mineta San Jose International,SJC,37.352778,-121.919444,54777.0,1021.0,1.86
+ North Central West Virginia,CKB,39.3,-80.233333,500.0,10.0,2.0
+ North Platte Regional Airport Lee Bird Field,LBF,41.133333,-100.7,726.0,28.0,3.86
+ Northeast Wyoming Regional,GCC,44.35,-105.533333,361.0,8.0,2.22
+ Northwest Arkansas National,XNA,36.281667,-94.306667,4425.0,63.0,1.42
+ Northwest Arkansas Regional,XNA,36.281667,-94.306667,3127.0,36.0,1.15
+ Ogdensburg International,OGS,44.683333,-75.466667,93.0,1.0,1.08
+ Ontario International,ONT,34.056111,-117.601111,23554.0,410.0,1.74
+ Orlando International,MCO,28.429444,-81.308889,152405.0,4363.0,2.86
+ Palm Beach International,PBI,26.683056,-80.095556,24790.0,595.0,2.4
+ Palm Springs International,PSP,33.833333,-116.5,14439.0,194.0,1.34
+ Pellston Regional Airport of Emmet County,PLN,45.566667,-84.8,773.0,17.0,2.2
+ Pensacola International,PNS,30.466667,-87.183333,8239.0,143.0,1.74
+ Petersburg James A Johnson,PSG,56.8,-132.983333,722.0,17.0,2.35
+ Philadelphia International,PHL,39.871944,-75.241111,66238.0,1249.0,1.89
+ Phoenix Sky Harbor International,PHX,33.433333,-112.033333,162235.0,2467.0,1.52
+ Piedmont Triad International,GSO,36.097778,-79.937222,4787.0,48.0,1.0
+ Pittsburgh International,PIT,40.491389,-80.232778,25175.0,476.0,1.89
+ Plattsburgh International,PBG,44.650833,73.468056,76.0,2.0,2.63
+ Pocatello Regional,PIH,42.916667,-112.583333,365.0,2.0,0.55
+ Portland International,PDX,45.588611,-122.5975,53492.0,1044.0,1.95
+ Portland International Jetport,PWM,43.65,-70.3,5679.0,159.0,2.8
+ Prescott Regional Ernest A Love Field,PRC,34.65,-112.416667,721.0,6.0,0.83
+ Pueblo Memorial,PUB,38.283333,-104.5,328.0,4.0,1.22
+ Quad Cities International,MLI,41.45,-90.516667,1634.0,26.0,1.59
+ Quad City International,MLI,41.45,-90.516667,1162.0,14.0,1.2
+ Raleigh-Durham International,RDU,35.877778,-78.7875,41034.0,774.0,1.89
+ Ralph Wien Memorial,OTZ,66.866667,-162.633333,724.0,48.0,6.63
+ Range Regional,HIB,47.383333,-92.833333,743.0,14.0,1.88
+ Rapid City Regional,RAP,44.033333,-103.05,3799.0,103.0,2.71
+ Redding Municipal,RDD,40.5,-122.3,1316.0,14.0,1.06
+ Reno/Tahoe International,RNO,39.499167,-119.768056,18607.0,341.0,1.83
+ Rhinelander/Oneida County,RHI,45.633333,-89.45,711.0,10.0,1.41
+ Rhode Island Tf Green International,PVD,41.733333,-71.433333,6015.0,114.0,1.9
+ Richmond International,RIC,37.5,-77.316667,11860.0,178.0,1.5
+ Rick Husband Amarillo International,AMA,35.226389,-101.705833,4753.0,121.0,2.55
+ Riverton Regional,RIW,43.064167,-108.459722,159.0,4.0,2.52
+ Roanoke Blacksburg Regional,ROA,37.316667,-79.983333,350.0,5.0,1.43
+ Roanoke Blacksburg Regional Woodrum Field,ROA,37.316667,-79.983333,241.0,3.0,1.24
+ Robert Gray AAF,GRK,31.067222,-97.828889,1587.0,39.0,2.46
+ Roberts Field,RDM,44.25,-121.15,5543.0,44.0,0.79
+ Rochester International,RST,43.908333,-92.5,1541.0,36.0,2.34
+ Rogue Valley International - Medford,MFR,42.366667,-122.866667,4499.0,26.0,0.58
+ Ronald Reagan Washington National,DCA,38.851944,-77.037778,76043.0,1959.0,2.58
+ Roswell Air Center,ROW,33.416667,-104.55,664.0,9.0,1.36
+ Roswell International Air Center,ROW,33.416667,-104.55,574.0,3.0,0.52
+ Sacramento International,SMF,38.7,-121.616667,54252.0,1018.0,1.88
+ Salina Regional,SLN,38.816667,-97.566667,802.0,13.0,1.62
+ Salt Lake City International,SLC,40.788333,-111.966667,109073.0,1314.0,1.2
+ San Angelo Regional/Mathis Field,SJT,31.357778,-100.496389,1326.0,33.0,2.49
+ San Antonio International,SAT,29.533333,-98.466667,35430.0,600.0,1.69
+ San Diego International,SAN,32.733333,-117.183333,89203.0,1567.0,1.76
+ San Francisco International,SFO,37.618889,-122.375,129871.0,1877.0,1.45
+ San Luis County Regional,SBP,35.236944,-120.641944,4749.0,55.0,1.16
+ San Luis Valley Regional/Bergman Field,ALS,37.433333,-105.866667,64.0,2.0,3.12
+ Santa Barbara Municipal,SBA,33.426111,-119.840278,7041.0,151.0,2.14
+ Santa Fe Municipal,SAF,35.616667,-106.083333,1838.0,29.0,1.58
+ Sarasota/Bradenton International,SRQ,27.395556,-82.554444,11666.0,287.0,2.46
+ Savannah/Hilton Head International,SAV,32.133333,-81.2,11051.0,229.0,2.07
+ Sawyer International,MQT,46.533333,-87.566667,644.0,16.0,2.48
+ Seattle/Tacoma International,SEA,47.448889,-122.309444,150492.0,2606.0,1.73
+ Shenandoah Valley Regional,SHD,38.266667,-78.9,366.0,2.0,0.55
+ Sheppard AFB/Wichita Falls Municipal,SPS,33.983333,-98.516667,897.0,23.0,2.56
+ Sheridan County,SHR,44.766667,-106.966667,628.0,8.0,1.27
+ Shreveport Regional,SHV,32.45,-93.816667,2085.0,36.0,1.73
+ Sioux Gateway Brig Gen Bud Day Field,SUX,42.4,-96.383333,706.0,20.0,2.83
+ Sitka Rocky Gutierrez,SIT,57.066667,-135.35,1427.0,42.0,2.94
+ Snohomish County,PAE,47.919444,-122.283611,761.0,9.0,1.18
+ South Bend International,SBN,41.7,-86.316667,3646.0,58.0,1.59
+ Southwest Florida International,RSW,26.542222,-81.755278,32086.0,1471.0,4.58
+ Southwest Oregon Regional,OTH,43.416667,-124.25,333.0,2.0,0.6
+ Southwest Wyoming Regional,RKS,41.6,-109.066667,365.0,5.0,1.37
+ Spokane International,GEG,47.619722,-117.533889,14935.0,205.0,1.37
+ Springfield-Branson National,SGF,37.25,-93.383333,5120.0,60.0,1.17
+ St George Regional,SGU,37.083333,-113.6,2755.0,9.0,0.33
+ St Louis Lambert International,STL,38.748611,-90.37,54636.0,1152.0,2.11
+ Stillwater Regional,SWO,36.166667,-97.083333,724.0,16.0,2.21
+ Syracuse Hancock International,SYR,43.116667,-76.116667,7376.0,158.0,2.14
+ Tallahassee International,TLH,30.396389,-84.350278,3512.0,24.0,0.68
+ Tampa International,TPA,27.975556,-82.533056,73398.0,1889.0,2.57
+ Ted Stevens Anchorage International,ANC,61.174444,-149.996389,18243.0,389.0,2.13
+ The Eastern Iowa,CID,41.884722,-91.710833,4527.0,84.0,1.86
+ Theodore Francis Green State,PVD,41.733333,-71.433333,4194.0,112.0,2.67
+ Toledo Express,TOL,41.586944,-83.807778,155.0,2.0,1.29
+ Trenton Mercer,TTN,40.276667,-74.813333,2017.0,64.0,3.17
+ Tri Cities,PSC,46.264722,-119.119167,4929.0,40.0,0.81
+ Tucson International,TUS,32.116111,-110.941111,16007.0,194.0,1.21
+ Tulsa International,TUL,36.198333,-95.888056,13995.0,243.0,1.74
+ Tyler Pounds Regional,TYR,32.354167,-95.4025,1064.0,25.0,2.35
+ University Park,SCE,40.772222,-77.883333,529.0,7.0,1.32
+ University of Illinois/Willard,CMI,40.033333,-88.283333,1455.0,23.0,1.58
+ Valley International,HRL,26.2,-97.75,3733.0,79.0,2.12
+ Vernal Regional,VEL,40.45,-109.516667,504.0,30.0,5.95
+ Victoria Regional,VCT,28.85,-96.916667,609.0,8.0,1.31
+ Waco Regional,ACT,31.616667,-97.233333,1482.0,33.0,2.23
+ Washington Dulles International,IAD,38.944444,-77.455833,41136.0,618.0,1.5
+ Waterloo Regional,ALO,42.55,-92.383333,537.0,15.0,2.79
+ Waynesville-St. Robert Regional Forney Field,TBN,37.733333,-92.15,294.0,8.0,2.72
+ West Virginia International Yeager,CRW,38.366667,-81.6,681.0,16.0,2.35
+ Westchester County,HPN,41.066667,-73.7,9890.0,196.0,1.98
+ Western Neb. Regional/William B. Heilig Field,BFF,41.866667,-103.6,699.0,18.0,2.58
+ Wichita Dwight D Eisenhower National,ICT,37.65,-97.433333,8027.0,134.0,1.67
+ Wiley Post/Will Rogers Memorial,BRW,71.333333,-156.65,364.0,27.0,7.42
+ Wilkes Barre Scranton International,AVP,41.338333,-75.723333,1564.0,32.0,2.05
+ Will Rogers World,OKC,35.393056,-97.600833,19246.0,286.0,1.49
+ William P Hobby,HOU,29.645556,-95.278889,50532.0,1102.0,2.18
+ Wilmington International,ILM,34.270556,-77.9025,2454.0,36.0,1.47
+ Worcester Regional,ORH,42.267222,-71.875833,1091.0,49.0,4.49
+ Wrangell Airport,WRG,56.466667,-132.383333,722.0,20.0,2.77
+ Yakutat Airport,YAK,59.5,-139.666667,722.0,14.0,1.94
+ Yampa Valley,HDN,40.519444,-106.869444,2373.0,70.0,2.95
+ Yeager,CRW,38.366667,-81.6,164.0,1.0,0.61
+ Yellowstone,WYS,44.683333,-111.116667,284.0,1.0,0.35
+ Yellowstone Regional,COD,44.516667,-109.033333,359.0,7.0,1.95
+ Yuma MCAS/Yuma International,YUM,32.65,-114.6,1437.0,7.0,0.49
