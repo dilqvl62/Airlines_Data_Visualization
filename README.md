@@ -16,6 +16,7 @@ Given a historic flight in the USA, can we create a visualization that empower a
 
 ## 2. Data
 I obtained the data from [the Bureau of Transportation Statistics Website](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp).
+For more details about the columns name and their representation [check out this link:](https://www.openintro.org/data/index.php?data=airline_delay)
 
 **Note:** To open the link in a new tab, you can right-click the link and select "Open Link in New Tab" in your browser.
 
