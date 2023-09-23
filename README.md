@@ -38,11 +38,15 @@ Transformed the Dataframe into the following tables:
 
 ![Screen Shot 2023-09-23 at 2 23 53 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/9ba6d9ec-e266-4714-80be-32b65c9a6b4d)
 
-* Top 11 airlines in the USA grouped by carrier_name and month and total delay reason for each airline
+* Top 11 airlines in the USA grouped by carrier_name and month and total delay reason for each airline for line graph
 
 ![Screen Shot 2023-09-23 at 2 35 23 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/846e5f25-caae-4d47-a400-ef85d89c0369)
 
+To generate a map that show canceled flights percentage by airports, I incorporated another data set that has the latitude and longitude. I merged it with the original dataset (retaining only the relevant columns for both dataset and focussing on thetop 11 airlines in the USA):
 
+![Screen Shot 2023-09-23 at 2 53 32 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/0dba07d2-5ea2-4342-889f-83a310524e8d)
+
+*
 
 
 
