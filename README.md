@@ -24,6 +24,7 @@ For more details about the columns name and their representation [check out this
 
 ## 3. ETL using Jupyter Notebook
 **1. Extracting** 
+
 I employed the ETL approach, starting with data extraction. I loaded the raw data into a pandas DataFrame.
 Next, I performed data exploration'
 
