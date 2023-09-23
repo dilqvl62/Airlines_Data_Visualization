@@ -34,7 +34,8 @@ Transformed the Dataframe into the following tables:
 
 * Top 11 airlines in the USA and total delay reason for each airline to create a bar graph.
 
-![Screen Shot 2023-09-23 at 2 06 26 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/e64244ec-50ce-4991-af47-b4ed0dadb85e)
+![Screen Shot 2023-09-23 at 6 55 02 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/664ba53b-881f-49a9-97e0-cd41549d6e84)
+
 
 ![Screen Shot 2023-09-23 at 2 23 53 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/9ba6d9ec-e266-4714-80be-32b65c9a6b4d)
 
