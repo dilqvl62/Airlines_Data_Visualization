@@ -28,7 +28,9 @@ I employed the ETL approach, starting with data extraction. I loaded the raw dat
 Next, I performed data exploration'
 
 **2. Transforming and Loading** 
+
 Transformed the Dataframe into the following tables:
+
 Top 11 airlines in the USA and total delay reason for each airline  
 
 ![Screen Shot 2023-09-23 at 2 06 26 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/e64244ec-50ce-4991-af47-b4ed0dadb85e)
