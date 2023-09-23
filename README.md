@@ -15,7 +15,7 @@ This project uses Python Flask-powered API, Pandas, HTML/CSS, JavaScript, D3, an
 Given a historic flight in the USA, can we create a visualization that empower air traveleres to make informed decision about their choice of airline ?
 
 ## 2. Data
-I obtained the data from [the Bureau of Transportation Statistics Website](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp)
+I obtained the data from [the Bureau of Transportation Statistics Website](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp){:target="_blank"}
 
 ## 3. ETL using Jupyter Notebook
 
