@@ -27,10 +27,12 @@ d3.json(total_flights).then((data) => {
       xaxis: {
         title: 'Air Lines',
         dtick: 1,
-        tickangle:-45
+        tickangle:-45,
+        showgrid: false
       },
       yaxis: {
-      title: 'Total Flights/Delays'
+      title: 'Total Flights/Delays',
+      showgrid: false
       }
     };
     Plotly.newPlot('bar', [ttl_flights,air_delay], layout);

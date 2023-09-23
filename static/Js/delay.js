@@ -81,11 +81,12 @@ d3.json(delayed_total).then(data => {
         xaxis: {
             title: 'Month', 
             dtick: 1,
-            tickangle: 0
+            tickangle: 0,
+            showgrid: false
         },
         yaxis: {
             title: 'Total Delay in Hours',
-            
+            showgrid: false
         },
         hovermode: 'closest',
         //title: 'Total Delay Due to diffirent reasons'
