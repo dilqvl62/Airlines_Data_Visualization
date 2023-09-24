@@ -64,10 +64,26 @@ I created an API to request and retrieve data from the database tables, returnin
 
 ## 6. Visualization 
 
+* Airline delays by reason
+  
 I created a side-by-side bar graph to visualize the top 11 total flights alongside delay reasons. A dropdown menu allows you to select a reason, and the orange bars adjust in size to reflect the number of delayed flights for the selected reason.
 
 ![Screen Shot 2023-09-23 at 7 53 00 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/59bfff1d-e2df-4645-b36d-8c9dcb8fbbfa)
 
+* Monthly Duration Delays by Airline
+
+I created a scatter plot to visualize the total hours of delay by month for various reasons among the top 11 airlines
+
+![Screen Shot 2023-09-23 at 8 11 31 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/cd65ad6c-90f1-41e8-8b9a-fa94aaf82293)
+
+I implemented a dropdown menu that allows you to select an airline, enabling the visualization of its total hours of delay by month for various reasons among the top 11 airlines
+
+![Screen Shot 2023-09-23 at 8 16 53 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/d2a9645c-16c8-4f6a-8c1a-1d8dc43f7747)
+
+
+  
+
+  
 
 
 
