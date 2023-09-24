@@ -80,6 +80,13 @@ I implemented a dropdown menu that allows you to select an airline, enabling the
 
 ![Screen Shot 2023-09-23 at 8 16 53 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/d2a9645c-16c8-4f6a-8c1a-1d8dc43f7747)
 
+* Canceled flights percentage Map
+
+I finally created a map that visualize the top ten bussiest airports and the percentage of cancelled flights from April 2022 to April 2023
+
+
+![Screen Shot 2023-09-23 at 8 21 56 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/6c8309c0-6504-4e02-a97c-8097ef7f66cc)
+
 
   
 
