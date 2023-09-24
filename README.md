@@ -52,6 +52,12 @@ I created a Cancelled percentage column by deviding Cancelled_flights by total_a
 
 ![Screen Shot 2023-09-23 at 4 42 09 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/b8dcebad-b38c-41c1-b6ac-c2880b03c9f9)
 
+## 3. Databse using PostgreSQL
+I created three database tables in PostgreSQL and manually imported CSV files created during the ETL phase. To resolve an issue with the size of the 'carrier_name' in my bar graph, I decided to update the table using SQL, as shown below:
+
+![Screen Shot 2023-09-23 at 7 13 59 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/e51e4ab9-ea8f-4c93-8f21-35927bbd3e47)
+
+
 
 
 
