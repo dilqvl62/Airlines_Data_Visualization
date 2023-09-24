@@ -82,7 +82,7 @@ I implemented a dropdown menu that allows you to select an airline, enabling the
 
 * Canceled flights percentage Map
 
-I finally created a map that visualize the top ten bussiest airports and the percentage of cancelled flights from April 2022 to April 2023
+I've successfully created a map visualizing the top ten busiest airports and the percentage of cancelled flights from April 2022 to April 2023. The size of the marker corresponds to the cancellation percentage, with larger markers indicating higher percentages.
 
 
 ![Screen Shot 2023-09-23 at 8 21 56 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/6c8309c0-6504-4e02-a97c-8097ef7f66cc)
