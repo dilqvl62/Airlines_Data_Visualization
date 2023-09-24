@@ -52,15 +52,23 @@ I created a Cancelled percentage column by deviding Cancelled_flights by total_a
 
 ![Screen Shot 2023-09-23 at 4 42 09 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/b8dcebad-b38c-41c1-b6ac-c2880b03c9f9)
 
-## 3. Databse using PostgreSQL
+## 4. Databse using PostgreSQL
 I created three database tables in PostgreSQL and manually imported CSV files created during the ETL phase. To resolve an issue with the size of the 'carrier_name' in my bar graph, I decided to update the table using SQL, as shown below:
 
 ![Screen Shot 2023-09-23 at 7 13 59 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/e51e4ab9-ea8f-4c93-8f21-35927bbd3e47)
 
-## 4. Creating API
+## 5. Creating API
 I created an API to request and retrieve data from the database tables, returning JSON results. Below is an example using one of the tables:
 
 ![Screen Shot 2023-09-23 at 7 32 26 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/c6c39195-5b08-42b6-a429-7f280978717d)
+
+## 6. Visualization 
+
+I created a side-by-side bar graph to visualize the top 11 total flights alongside delay reasons. A dropdown menu allows you to select a reason, and the orange bars adjust in size to reflect the number of delayed flights for the selected reason.
+
+![Screen Shot 2023-09-23 at 7 53 00 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/59bfff1d-e2df-4645-b36d-8c9dcb8fbbfa)
+
+
 
 
 
