@@ -57,7 +57,10 @@ I created three database tables in PostgreSQL and manually imported CSV files cr
 
 ![Screen Shot 2023-09-23 at 7 13 59 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/e51e4ab9-ea8f-4c93-8f21-35927bbd3e47)
 
+## 4. Creating API
+I created an API to request and retrieve data from the database tables, returning JSON results. Below is an example using one of the tables:
 
+![Screen Shot 2023-09-23 at 7 32 26 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/c6c39195-5b08-42b6-a429-7f280978717d)
 
 
 
