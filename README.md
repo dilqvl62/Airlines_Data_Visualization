@@ -1,7 +1,7 @@
-# Project: Choose_your_flight
+# Project: Airlines Data Visualization
 
 ## Overview
-Choose_Your_flight is an engaging project that presents a story about US airline on-time performance through visualization. 
+Airlines Data Visualization is an engaging project that presents a story about US airline on-time performance through visualization. 
 This project uses Python Flask-powered API, Pandas, HTML/CSS, JavaScript, D3, and PostgreSQL database. I am going to take the following approach:
   1. Problem definition
   2. Data
