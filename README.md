@@ -59,8 +59,9 @@ I created three database tables in PostgreSQL and manually imported CSV files cr
 
 ## 5. Creating API
 I created an API to request and retrieve data from the database tables, returning JSON results. Below is an example using one of the tables:
+![total_flights](https://github.com/dilqvl62/Airlines_Data_Visualization/assets/107519883/b3e348a2-5d38-44fe-9452-dc698d9f6c03) ![monthly_delays](https://github.com/dilqvl62/Airlines_Data_Visualization/assets/107519883/69e1004f-8ce0-4db1-9116-28ce711ef668)
+![heat_map](https://github.com/dilqvl62/Airlines_Data_Visualization/assets/107519883/907fce6c-3323-43fc-9b5a-37783519656e)
 
-![Screen Shot 2023-09-23 at 7 32 26 PM](https://github.com/dilqvl62/Choose_your_flight/assets/107519883/c6c39195-5b08-42b6-a429-7f280978717d)
 
 ## 6. Visualization 
 
