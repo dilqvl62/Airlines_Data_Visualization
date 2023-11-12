@@ -12,7 +12,7 @@ This project uses Python Flask-powered API, Pandas, HTML/CSS, JavaScript, D3, an
   7. Web developement using HTML/CSS
 
 ## 1. Problem Definition
-Given a historic flight in the USA, can we create a visualization that empower air traveleres to make informed decision about their choice of airline ?
+Given a historic flight data in the USA, can we create a visualization that empower air traveleres to make informed decision about their choice of airline ?
 
 ## 2. Data
 I obtained the data from [the Bureau of Transportation Statistics Website](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp).
